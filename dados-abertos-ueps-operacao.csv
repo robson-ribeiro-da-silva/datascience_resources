@@ -1,13 +1,3 @@
-﻿;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
-Agência Nacional do Petroleo - ANP;;;;Data de Atualização: 05/04/2021;DATUM: SIRGAS2000;;;;;;
-SIGEP Produção;;;;;;;;;;;
-Unidade Estacionária de Produção - UEP;;;;;;;;;;;
-;;;;Mês de Referência: Fevereiro/2021;;;;;;;
 Sigla;Nome;Bacia ;Tipo;Operador;Latitude;Longitude;Lâmina D'água (m);Capacidade de Processamento Petróleo (bbl/dia);Capacidade de Processamento Gás (Mil m³/dia);;
 CAPX;FPSO CAPIXABA;Campos ;FPSO;Petrobras;-21:14:16,783;-39:57:46,397;1350;110000;3200;;
 FCDA;FPSO CIDADE DE ANCHIETA;Campos ;FPSO;Petrobras;-21:20:16,965;-40:03:27,174;1221;100000;3500;;
